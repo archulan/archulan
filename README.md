@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![HitCount](http://hits.dwyl.com/Archulan/{project}.svg)](http://hits.dwyl.com/Archulan/{project})
+
+![Dragoș's github stats](https://github-readme-stats.vercel.app/api?username=Archulan&show_icons=true&&hide_border=true)
