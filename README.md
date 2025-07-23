@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Dragoș's github stats](https://github-readme-stats.vercel.app/api?username=Archulan&show_icons=true)
+- 🏢 I am currently working as Senior Software Engineer.
+- 🌱 I’m currently reading: Modern Trade-Off Analyses for Distributed Architectures
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/archulan/)
+
+![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=8904185/archulan-r)
