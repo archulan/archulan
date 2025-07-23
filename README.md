@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏢 I am currently working as Senior Software Engineer.
+- 🔭 I'm currently working as a Senior Software Engineer
 - 🌱 I’m currently reading: Modern Trade-Off Analyses for Distributed Architectures
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/archulan/)
 
