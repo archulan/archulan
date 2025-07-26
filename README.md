@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm currently working as a Senior Software Engineer
-- 🌱 I’m currently reading: Modern Trade-Off Analyses for Distributed Architectures
+- 🔭 I'm currently working on
+  - Clipboard EMS for work
+  - AI Powered Cricket Analytics on the side
+- 🌱 I’m currently reading
+  - Modern Trade-Off Analyses for Distributed Architectures
+  - Deep work
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/archulan/)
 
 ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=8904185/archulan-r)
