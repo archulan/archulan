@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently reading
   - Modern Trade-Off Analyses for Distributed Architectures
   - Deep work
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/archulan/)
+ 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archulan/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@archulan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8904185/archulan)
 
-![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=8904185/archulan-r)
+![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=8904185/archulan-r) 
